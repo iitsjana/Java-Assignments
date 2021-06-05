@@ -26,3 +26,11 @@
  * to demonstrate a Game object.
  * Then create a GameTest class to place the main method in,
  * which demonstrates the Game object. 
+
+<h2>4. Rectangle class</h2>
+
+### General info
+
+ * In this assignment we are asked to create three objects
+ * and to check if the object is a rectangle or a square
+ * then finally, to display the information using toString
