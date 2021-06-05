@@ -34,3 +34,10 @@
  * In this assignment we are asked to create three objects
  * and to check if the object is a rectangle or a square
  * then finally, to display the information using toString
+
+
+<h2>5. files</h2>
+
+### General info
+
+ * We are asked to create an application related to files
