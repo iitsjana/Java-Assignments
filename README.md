@@ -7,9 +7,22 @@
 * social security number, and salary from the user using loops
 * gives the employee a 10% raise and prints the information using loops
 
+
+
 <h2>2. Text Analysis</h2>
 
 ### General info
  * In this assignment we are going to create a phrase analyzer that will receive a string of text as input 
  * and print out a table of occurrence for the letters of the alphabet in that given text.
 
+
+
+<h2>3. Assignment 5</h2>
+
+### General info
+
+ * In this assignment we are printing Game Information via ArrayLists
+ * We're  asked to create a Game class
+ * to demonstrate a Game object.
+ * Then create a GameTest class to place the main method in,
+ * which demonstrates the Game object. 
