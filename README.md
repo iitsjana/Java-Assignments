@@ -41,3 +41,13 @@
 ### General info
 
  * We are asked to create an application related to files
+
+
+<h2>6. Inhertiance </h2>
+
+### General info
+
+ *  we created an inheritance hierarchy for the following classes: Device, Android, iOS.
+ *  and then called their toString methods to print information accordingly.
+ 
+
